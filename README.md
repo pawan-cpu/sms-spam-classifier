@@ -1,4 +1,5 @@
-# Email Spam Classifier
+# Email Spam Classifier(Team Sigmoid)
+# Nestria AI Hackathon
 This repository contains code for an end-to-end email spam classifier project. The project aims to classify emails as either spam or non-spam (ham) using various machine learning models and deploy the best-performing model for real-world use.
 
 # Overview
